@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="340.2px" height="170.1px" viewBox="0 0 340.2 170.1" enable-background="new 0 0 340.2 170.1" xml:space="preserve">
+<g id="off_1_">
+	<path fill="#9256D7" d="M160.3,48.1c8.6,0,15.6,7,15.6,15.6s-7,15.6-15.6,15.6s-15.6-7-15.6-15.6S151.7,48.1,160.3,48.1z"/>
+	<line fill="none" stroke="#24131D" stroke-width="1.5" x1="152.5" y1="55.9" x2="168.1" y2="71.5"/>
+	<line fill="none" stroke="#24131D" stroke-width="1.5" x1="168.1" y1="55.9" x2="152.5" y2="71.5"/>
+</g>
+<g id="line_1_">
+	<path fill="#4D9EFF" d="M160.3,48.1c8.6,0,15.6,7,15.6,15.6s-7,15.6-15.6,15.6s-15.6-7-15.6-15.6S151.7,48.1,160.3,48.1z"/>
+	<g>
+		<polyline fill="none" stroke="#24131D" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round" points="162.2,65.3 
+			172.4,65.3 173.6,64.4 173.6,63.3 172.4,62.5 162.2,62.5 		"/>
+		
+			<line fill="none" stroke="#24131D" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round" x1="168.7" y1="62.5" x2="168.7" y2="65.3"/>
+		<polygon fill="none" stroke="#24131D" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round" points="162.2,61 
+			162.2,66.7 152.5,66.7 147.8,65.6 147.8,62.1 152.5,61 		"/>
+		
+			<line fill="none" stroke="#24131D" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round" x1="153.1" y1="66.7" x2="153.1" y2="61"/>
+	</g>
+</g>
+<g id="radio_1_">
+	<path fill="#00ED95" d="M160.3,48.1c8.6,0,15.6,7,15.6,15.6s-7,15.6-15.6,15.6s-15.6-7-15.6-15.6S151.7,48.1,160.3,48.1z"/>
+	<path fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M164.4,60.8
+		c0,0,1.1-0.7,2.4-0.1c1.3,0.6,2.5,2.6,3.6,4.7c2,4-3.1,4.4-2.8,1.3c0.3-2.7-0.1-5.8-0.8-5.9"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round" x1="153.5" y1="60.3" x2="163.7" y2="57.1"/>
+	
+		<circle fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="163.8" cy="57" r="0.8"/>
+	<rect x="153.3" y="60.7" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" width="11.2" height="8.2"/>
+	<g>
+		<circle stroke="#000000" stroke-width="0.25" cx="157.9" cy="63" r="0.6"/>
+		<circle stroke="#000000" stroke-width="0.25" cx="159.9" cy="63" r="0.6"/>
+		<circle stroke="#000000" stroke-width="0.25" cx="157.9" cy="66.7" r="0.6"/>
+		<circle stroke="#000000" stroke-width="0.25" cx="159.9" cy="66.7" r="0.6"/>
+		<circle stroke="#000000" stroke-width="0.25" cx="156.8" cy="64.8" r="0.6"/>
+		<circle stroke="#000000" stroke-width="0.25" cx="158.8" cy="64.8" r="0.6"/>
+		<circle stroke="#000000" stroke-width="0.25" cx="160.9" cy="64.8" r="0.6"/>
+	</g>
+</g>
+<g id="whatuhear_1_">
+	<path fill="#E6E7FF" d="M160.3,48.1c8.6,0,15.6,7,15.6,15.6s-7,15.6-15.6,15.6s-15.6-7-15.6-15.6S151.7,48.1,160.3,48.1z"/>
+	<g>
+		<path fill="none" stroke="#24131D" stroke-width="1.5" d="M157.1,61.2c0.2-1.7,1.6-3,3.3-3s3.1,1.3,3.3,3l0,0"/>
+		<path fill="none" stroke="#24131D" stroke-width="1.5" d="M153.8,61.2c0.2-3.5,3.1-6.3,6.6-6.3c3.7,0,6.6,3,6.6,6.6
+			c0,2.4-1.2,3.6-2.1,4.4c-0.2,0.2-0.4,0.4-0.5,0.5c-0.8,0.9-0.9,2.4-0.9,2.7c0,2-1.5,3.7-3.5,3.9l0,0"/>
+	</g>
+</g>
+<g id="mic_1_">
+	<path fill="#FF3A5D" d="M160.3,48.1c8.6,0,15.6,7,15.6,15.6s-7,15.6-15.6,15.6s-15.6-7-15.6-15.6S151.7,48.1,160.3,48.1z"/>
+	<g>
+		<line fill="none" stroke="#24131D" stroke-width="2.5" x1="163.9" y1="60.7" x2="154.8" y2="69.8"/>
+		<circle fill="#24131D" stroke="#24131D" stroke-width="2.5" cx="163.9" cy="60.7" r="1.8"/>
+	</g>
+</g>
+<g id="usb">
+	<path fill="#4D9EFF" d="M160.3,48.3c8.6,0,15.6,7,15.6,15.6s-7,15.6-15.6,15.6s-15.6-7-15.6-15.6C144.7,55.2,151.7,48.3,160.3,48.3
+		z"/>
+	<path fill="#E6E7FF" d="M164.9,67.5v-1h3.6v3.6h-3.6v-1h-2.1c-0.7-0.1-1.3-0.4-1.8-0.8l-3.1-3.3c-0.2-0.2-0.5-0.3-0.7-0.3h-5
+		c-0.2,0.9-1,1.6-1.8,1.8c-1.5,0.5-3-0.4-3.6-1.8c-0.5-1.4,0.4-3,1.8-3.6c1.5-0.5,3,0.4,3.6,1.8h1.4c0.2,0,0.5-0.1,0.7-0.2l3.3-3.4
+		c0.5-0.5,1.2-0.7,1.9-0.7h3.6c0.2-0.3,0.5-0.5,0.8-0.8c0.9-0.5,2-0.2,2.5,0.8c0.5,0.9,0.2,2-0.8,2.5c-0.9,0.5-2,0.2-2.5-0.8h-3.6
+		c-0.2,0-0.5,0.1-0.7,0.2l-2.2,2.4H170v-1.5l4,2.3l-4,2.3v-1.5h-10l2.2,2.3c0.2,0.2,0.5,0.4,0.8,0.4L164.9,67.5L164.9,67.5z"/>
+</g>
+</svg>

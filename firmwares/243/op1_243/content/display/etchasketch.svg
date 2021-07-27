@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="320px" height="160px" viewBox="0 0 320 160" enable-background="new 0 0 320 160" xml:space="preserve">
+<g id="hbars">
+	<line id="h1" fill="none" stroke="#534468" x1="5" y1="5" x2="293" y2="5"/>
+	<line id="h2" fill="none" stroke="#534468" x1="5" y1="149" x2="293" y2="149"/>
+</g>
+<g id="vbars">
+	<line id="v1" fill="none" stroke="#534468" x1="5" y1="5" x2="5" y2="149"/>
+	<line id="v2" fill="none" stroke="#534468" x1="293" y1="5" x2="293" y2="149"/>
+</g>
+<g id="quantize">
+	<path fill="none" stroke="#FF3A5D" stroke-width="1.5" stroke-linecap="square" d="M291.255,21.225v5.102
+		c0,1.723,1.396,3.118,3.117,3.118c1.724,0,3.117-1.396,3.117-3.118l0,0l0,0v-5.102c0-1.722-1.396-3.118-3.117-3.118
+		C292.652,18.106,291.255,19.502,291.255,21.225L291.255,21.225L291.255,21.225L291.255,21.225z"/>
+	<polyline fill="none" stroke="#FF3A5D" stroke-width="1.5" stroke-linecap="square" points="295.223,26.895 295.223,27.178 
+		297.492,29.196 297.492,29.445 	"/>
+</g>
+<g id="cursor">
+	<path fill="#FF3A5D" d="M3.584,0.181c0,1.946-1.576,3.52-3.521,3.52c-1.943,0-3.521-1.577-3.521-3.52
+		c0-1.943,1.577-3.518,3.521-3.518C2.008-3.34,3.584-1.762,3.584,0.181"/>
+	<circle fill="none" cx="0.062" cy="0.181" r="3.519"/>
+</g>
+</svg>

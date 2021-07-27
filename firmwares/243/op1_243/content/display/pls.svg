@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="320px" height="160px" viewBox="0 0 320 160" enable-background="new 0 0 320 160" xml:space="preserve">
+<g id="static">
+	<g id="static_x5F_bg">
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="53.334" y1="5.559" x2="53.334" y2="138.893"/>
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="80" y1="5.559" x2="80" y2="138.893"/>
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="106.667" y1="5.559" x2="106.667" y2="138.893"/>
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="133.333" y1="5.559" x2="133.333" y2="138.893"/>
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="160.001" y1="5.559" x2="160.001" y2="138.893"/>
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="186.666" y1="5.559" x2="186.666" y2="138.893"/>
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="213.333" y1="5.559" x2="213.333" y2="138.893"/>
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="239.999" y1="5.559" x2="239.999" y2="138.893"/>
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="266.665" y1="5.559" x2="266.665" y2="138.893"/>
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="26.668" y1="32.226" x2="293.334" y2="32.226"/>
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="26.668" y1="58.892" x2="293.334" y2="58.892"/>
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="26.668" y1="85.561" x2="293.334" y2="85.561"/>
+		<line fill="none" stroke="#002740" stroke-width="1.5" x1="26.668" y1="112.225" x2="293.334" y2="112.225"/>
+		<polyline fill="none" stroke="#002740" stroke-width="1.5" points="26.668,138.893 26.668,5.559 293.332,5.559 293.334,138.893 
+			26.668,138.893 		"/>
+		<polyline fill="none" stroke="#FF3A5D" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round" points="
+			218.9,25.226 218.9,11.893 221.566,11.893 226.9,25.226 232.234,11.893 234.9,11.893 234.9,25.226 		"/>
+		<polyline fill="none" stroke="#4D9EFF" stroke-width="1.5" points="33.517,25.226 33.517,11.893 47.458,11.893 		"/>
+		<line fill="none" stroke="#4D9EFF" stroke-width="1.5" x1="33.517" y1="18.56" x2="47.458" y2="18.56"/>
+	</g>
+</g>
+<g id="fltbgright">
+	<circle fill="none" stroke="#00475B" stroke-width="1.5" cx="93.405" cy="18.447" r="6.553"/>
+</g>
+<g id="fltbgleft">
+	<circle fill="none" stroke="#00475B" stroke-width="1.5" cx="66.604" cy="18.447" r="6.553"/>
+</g>
+<path id="bluecurve" fill="none" stroke="#69BCFF" stroke-width="1.5" d="M209.167,25.226h-22.3c0,0,0-1.432,0-3.2l0,0v-5.333
+	c0,0-1.434,0-3.201,0s-3.2,0-3.2,0v5.333h0.001c0,1.768-0.001,3.2-0.001,3.2H169.8c0,0,0-1.432,0-3.2V11.893c0,0-1.432,0-3.198,0
+	c-1.77,0-3.199,0-3.199,0v10.133l0,0c0,1.768,0,3.2,0,3.2h-7.464h-3.2h-3.2c-1.767,0-3.197,0-3.197,0v-8.533c0,0-1.435,0-3.2,0
+	c-1.77,0-3.2,0-3.2,0v5.333h0.001c0,1.768,0,3.2,0,3.2h-7.468c-1.77,0-3.2,0-3.2,0V15.091c0-1.767,0-3.199,0-3.199
+	c-1.768,0-6.401,0-6.401,0v10.133h0.001c0,1.768-0.001,3.2-0.001,3.2h-12.035"/>
+<polyline id="pinkbars" fill="none" stroke="#FF90A7" stroke-width="1.5" points="245.078,12.02 255.871,12.02 255.871,15.729 
+	266.667,15.729 266.667,20.18 277.461,20.18 277.461,12.02 288.258,12.02 "/>
+<g id="redlinebg">
+	<line fill="none" stroke="#5F4270" stroke-width="1.5" x1="245.427" y1="24.999" x2="288.256" y2="24.999"/>
+</g>
+<g id="fltleft">
+	<circle fill="none" stroke="#4D9EFF" stroke-width="1.5" cx="66.604" cy="18.447" r="6.553"/>
+</g>
+<g id="fltright">
+	<circle fill="none" stroke="#4D9EFF" stroke-width="1.5" cx="93.406" cy="18.447" r="6.554"/>
+</g>
+<g id="hlinehoris_7_">
+	<g id="hlinehoris">
+		<line fill="none" stroke="#002F4D" stroke-width="2" x1="32.9" y1="45.559" x2="26.541" y2="45.559"/>
+	</g>
+	<g id="hlinehoris_1_">
+		<line fill="none" stroke="#002F4D" stroke-width="2" x1="42.207" y1="45.559" x2="35.281" y2="45.559"/>
+	</g>
+	<g id="hlinehoris_2_">
+		<line fill="none" stroke="#002F4D" stroke-width="2" x1="51.23" y1="45.559" x2="44.871" y2="45.559"/>
+	</g>
+	<g id="hlinehoris_3_">
+		<line fill="none" stroke="#002F4D" stroke-width="2" x1="61.386" y1="45.559" x2="55.026" y2="45.559"/>
+	</g>
+	<g id="hlinehoris_4_">
+		<line fill="none" stroke="#002F4D" stroke-width="2" x1="70.976" y1="45.559" x2="64.051" y2="45.559"/>
+	</g>
+	<g id="hlinehoris_5_">
+		<line fill="none" stroke="#002F4D" stroke-width="2" x1="80" y1="45.559" x2="73.64" y2="45.559"/>
+	</g>
+</g>
+<g id="green_x5F_dashed">
+	<g id="hlinevertupper">
+		
+			<line fill="none" stroke="#00ED95" stroke-width="1.5" stroke-dasharray="3,2" x1="53.334" y1="45.559" x2="53.334" y2="138.893"/>
+	</g>
+	<g id="hlinevertlower">
+		
+			<line fill="none" stroke="#00ED95" stroke-width="1.5" stroke-dasharray="3,2" x1="53.334" y1="45.557" x2="53.334" y2="138.666"/>
+	</g>
+</g>
+<g id="whitetbars">
+	<polyline id="tbar1" fill="none" stroke="#DFD9FF" stroke-width="1.5" stroke-linecap="square" points="94.001,138.893 
+		94.001,85.561 102,85.561 102,138.893 	"/>
+	<polyline id="tbar2" fill="none" stroke="#DFD9FF" stroke-width="1.5" stroke-linecap="square" points="210.361,138.893 
+		210.361,85.561 218.361,85.561 218.361,138.893 	"/>
+</g>
+<g id="whitehbars">
+	<polyline id="whitehbar1" fill="none" stroke="#DFD9FF" stroke-width="1.5" stroke-linecap="square" points="26.667,138.893 
+		80,138.893 80,45.559 87.898,45.559 87.898,138.893 	"/>
+	<polyline id="whitehbar2" fill="none" stroke="#DFD9FF" stroke-width="1.5" stroke-linecap="square" points="195.963,138.893 
+		195.963,45.559 203.861,45.559 203.861,138.893 	"/>
+</g>
+<line id="hbarspanx" fill="none" stroke="#FFFF00" stroke-width="1.5" x1="285.462" y1="138.893" x2="218.361" y2="138.893"/>
+<g id="white">
+	<g id="t_x5F_letter">
+		
+			<line fill="none" stroke="#006666" stroke-width="1.5" stroke-linecap="square" x1="82.667" y1="81.893" x2="98.667" y2="81.893"/>
+		
+			<line fill="none" stroke="#006666" stroke-width="1.5" stroke-linecap="square" x1="90.667" y1="81.893" x2="90.667" y2="95.227"/>
+	</g>
+	<path id="righttdot" fill="#006666" d="M96.667,104.109c0,1.562-1.27,2.836-2.833,2.836c-1.564,0-2.837-1.271-2.837-2.836
+		c0-1.565,1.271-2.834,2.837-2.834C95.399,101.275,96.667,102.546,96.667,104.109z"/>
+	<path fill="#006666" d="M82.82,103.982c0,1.564-1.268,2.836-2.833,2.836s-2.837-1.271-2.837-2.836c0-1.563,1.271-2.834,2.837-2.834
+		C81.552,101.148,82.82,102.419,82.82,103.982z"/>
+</g>
+<g id="white_x5F_dashed">
+	<line id="tline" fill="none" stroke="#006666" stroke-width="1.5" x1="80" y1="104" x2="94.001" y2="104"/>
+</g>
+<g id="green">
+	<g id="greenh">
+		
+			<line fill="none" stroke="#00ED95" stroke-width="1.5" stroke-linecap="square" x1="46.668" y1="132.225" x2="46.668" y2="145.559"/>
+		
+			<line fill="none" stroke="#00ED95" stroke-width="1.5" stroke-linecap="square" x1="60.002" y1="132.225" x2="60.002" y2="145.559"/>
+		
+			<line fill="none" stroke="#00ED95" stroke-width="1.5" stroke-linecap="square" x1="46.668" y1="138.893" x2="60.002" y2="138.893"/>
+	</g>
+	<path id="greendotbottom" fill="#00ED95" d="M56.155,138.878c0,1.565-1.27,2.836-2.834,2.836s-2.835-1.271-2.835-2.836
+		c0-1.563,1.271-2.835,2.835-2.835C54.886,136.043,56.155,137.312,56.155,138.878z"/>
+	<path id="greendottop" fill="#00ED95" d="M56.155,45.826c0,1.568-1.269,2.837-2.833,2.837c-1.564,0-2.836-1.269-2.836-2.837
+		c0-1.563,1.271-2.833,2.836-2.833C54.886,42.993,56.155,44.265,56.155,45.826z"/>
+</g>
+</svg>
