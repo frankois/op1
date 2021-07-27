@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="320px" height="160px" viewBox="0 0 320 160" enable-background="new 0 0 320 160" xml:space="preserve">
+<g id="static">
+	<circle fill="none" stroke="#ACAFDA" stroke-width="2" stroke-linecap="square" cx="89.06" cy="101.201" r="20.158"/>
+	
+		<line fill="none" stroke="#ACAFDA" stroke-width="2" stroke-linecap="square" x1="178.084" y1="111.268" x2="178.084" y2="109.254"/>
+	<line fill="none" stroke="#ACAFDA" stroke-width="2" stroke-linecap="square" x1="178.084" y1="95.145" x2="178.084" y2="93.128"/>
+</g>
+<g id="hs">
+	<g id="hour">
+		
+			<line fill="none" stroke="#ACAFDA" stroke-width="2" stroke-linecap="square" x1="133.403" y1="81.035" x2="133.403" y2="121.348"/>
+		<polyline fill="none" stroke="#ACAFDA" stroke-width="2" stroke-linecap="square" points="169.018,109.254 144.83,109.254 
+			144.83,107.236 160.955,81.035 162.971,81.035 162.971,121.348 		"/>
+	</g>
+	<g id="min">
+		<path fill="none" stroke="#ACAFDA" stroke-width="2" stroke-linecap="square" d="M210.801,121.348h-20.154l18.144-24.187
+			c1.267-1.687,2.017-3.779,2.017-6.046c0-5.566-4.513-10.08-10.076-10.08c-5.565,0-10.078,4.514-10.078,10.08"/>
+		<polyline fill="none" stroke="#ACAFDA" stroke-width="2" stroke-linecap="square" points="219.398,81.039 239.555,81.039 
+			219.398,121.348 		"/>
+	</g>
+</g>
+<line id="hand_x5F_sec" fill="none" stroke="#534468" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x1="89.122" y1="98.816" x2="89.122" y2="84.984"/>
+<line id="hand_x5F_hour" fill="none" stroke="#ACAFDA" stroke-width="2" stroke-linecap="square" x1="89.06" y1="101.2" x2="89.063" y2="91.734"/>
+<line id="hand_x5F_min" fill="none" stroke="#ACAFDA" stroke-width="2" stroke-linecap="square" x1="89.063" y1="85.089" x2="89.059" y2="101.203"/>
+<g id="ymd">
+	<g id="month">
+		<path fill="none" stroke="#FF4C5D" stroke-width="2" d="M188.561,46.046c0,5.565-4.513,10.077-10.078,10.077
+			c-5.562,0-10.078-4.512-10.078-10.077V25.892c0-5.566,4.516-10.079,10.078-10.079c5.565,0,10.078,4.513,10.078,10.079V46.046z"/>
+		<polyline fill="none" stroke="#FF4C5D" stroke-width="2" points="220.809,44.031 196.623,44.031 196.623,42.015 212.746,15.813 
+			214.762,15.813 214.762,56.124 		"/>
+	</g>
+	<g id="day">
+		<line fill="none" stroke="#DFD9FF" stroke-width="2" x1="257.087" y1="15.813" x2="257.087" y2="56.125"/>
+		<circle fill="none" stroke="#DFD9FF" stroke-width="2" cx="277.242" cy="25.892" r="10.077"/>
+		<circle fill="none" stroke="#DFD9FF" stroke-width="2" cx="277.242" cy="46.048" r="10.077"/>
+	</g>
+	<g id="year">
+		<path fill="none" stroke="#DFD9FF" stroke-width="2" d="M73.678,46.046c0,5.565-4.512,10.077-10.078,10.077
+			s-10.079-4.512-10.079-10.077V25.892c0-5.566,4.513-10.079,10.079-10.079s10.078,4.513,10.078,10.079V46.046z"/>
+		<path fill="none" stroke="#DFD9FF" stroke-width="2" d="M101.896,46.046c0,5.565-4.513,10.077-10.079,10.077
+			s-10.079-4.512-10.079-10.077V25.892c0-5.566,4.513-10.079,10.079-10.079s10.079,4.513,10.079,10.079V46.046z"/>
+		<path fill="none" stroke="#DFD9FF" stroke-width="2" d="M45.46,56.124H25.306l18.14-24.186c1.265-1.686,2.015-3.78,2.015-6.046
+			c0-5.566-4.511-10.08-10.078-10.08c-5.566,0-10.077,4.514-10.077,10.08"/>
+		<circle fill="none" stroke="#DFD9FF" stroke-width="2" cx="122.049" cy="25.892" r="10.077"/>
+		<line fill="none" stroke="#DFD9FF" stroke-width="2" x1="130.111" y1="31.938" x2="111.972" y2="56.124"/>
+	</g>
+	<line fill="none" stroke="#DFD9FF" stroke-width="2" stroke-linecap="square" x1="140.187" y1="37.984" x2="160.344" y2="37.984"/>
+	<line fill="none" stroke="#DFD9FF" stroke-width="2" stroke-linecap="square" x1="226.854" y1="37.984" x2="247.009" y2="37.984"/>
+</g>
+</svg>
