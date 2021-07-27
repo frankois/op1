@@ -19,3 +19,7 @@ For each version, I will store:
 - Ableton 11 control surface scripts: https://github.com/marctdt/op-1-ableton-live-control-surface/tree/live-11
 
 > Scripts developed by [Marc Tran Du Trieu](https://github.com/marctdt), allowing deep control integration of the OP1 with the latest Ableton 11.
+
+- Official firmware update procedure: https://support.teenage.engineering/hc/en-us/articles/360001345014-OP-1-how-do-i-download-update-the-firmware-
+
+> Teenage Engineering official documentation on how to properly update the OP1.
